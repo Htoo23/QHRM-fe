@@ -24,8 +24,7 @@ A running .NET Core Web API backend (configured to listen on https://localhost:7
 Installation
 Clone this repository (or create a new React app and copy the src folder content).
 
-git clone <repository-url>
-cd product-management-frontend
+
 
 Install dependencies:
 
